@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\bin\Debug\net5.0\Number6.exe
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\bin\Debug\net5.0\Number6.deps.json
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\bin\Debug\net5.0\Number6.runtimeconfig.json
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\bin\Debug\net5.0\Number6.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\bin\Debug\net5.0\Number6.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\bin\Debug\net5.0\ref\Number6.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\bin\Debug\net5.0\Number6.pdb
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\ref\Number6.dll
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.pdb
+C:\CodebitsAcademy\LabTasks\C# LabTask4\Number6\obj\Debug\net5.0\Number6.genruntimeconfig.cache
