@@ -8,48 +8,40 @@ namespace Number6
             {
                 Program program = new Program();
 
-                Console.WriteLine($"Perfect Numbers: {program.Perfect()}\n");
+                Console.WriteLine($"Perfect Numbers: {program.CheckNum()}\n");
 
                 
             }
 
-        //     public int Factor() {
-
-        //     for(int num=2;num<=1000;num++)
-        //     {
-        //         if(perfect(num))
-        //         {
-        //             return num;
-        //             System.out.println(num + " is perfect.");
-        //             System.out.printf("Factors: ");
-
-        //             for(int i=1; i<num; i++)
-        //             {
-        //                 if (num % i == 0)
-        //                 {
-        //                     System.out.print(i+" ");
-        //                 }
-        //             }
-        //         }
-        //     }
-        // }
-
-        
-            public int Perfect()
+            public int CheckNum()
             {
-            int sum = 0;
-            for(int num=2;num<=1000;num++){
-            for(int i = 1; i<num; i++)
-            {
-                if (num % i == 0)
+                for(int val = 2; val <= 1000; val++)
                 {
-                    sum+=i;
-                }return sum;
+                    if(Perfect(val))
+                    {
+                        return val;
+                    }
+                        for(int i = 1; i < val; i++)
+                        {
+                            if (val % i == 0)
+                            {
+                                return i;
+                            }
+                        }
+                    
+                }
             }
+            public bool Perfect(int val)
+            {
+                int sum = 0;
+                for (int i = 1; i < val/2; i++)
+                {
+                    if(val % i == 0)
+                    {
+                        sum+=i;
+                    }
+                } return sum == val;
             }
-            // return sum==num;
-            // return sum;
-        }
     }
 
 }
